@@ -1,0 +1,20 @@
+.main-button {  /*# para id*/
+    display: inline-block; /*desgrudar o elemento da pagina*/
+    /*display:*/
+    /*block: Não deixa na mesma linha */
+    /*inline: mesma linha,não consegue usar width/height,caixa ganha corpotamento de palavra*/
+    background-color: #31572C;
+    /*line-height: 60px; /*tecnica para alinhar texto no centro(funciona com uma linha somaente*/
+    box-shadow: 5px 5px 0 #000;
+    padding: 18px 20px; /*separar o texto da margem*/
+    margin-right: 0;
+    transition: transform 150ms linear;
+    font-size: 20px;
+    color: #F7FFF7;
+    font-family: inherit;
+    text-decoration: none;
+}
+.main-button:hover{
+    transform: scale(1.05);
+    
+}
