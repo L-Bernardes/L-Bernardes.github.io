@@ -1,0 +1,31 @@
+.main-header {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    /*background-image: url("../Img/Header.png");*/
+    background-size: cover;
+}
+
+.mains-nome{
+    font-size: 50px;
+    font-family: 'Ephesis', cursive;
+}
+
+.main-menu1 {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+.menu {
+    text-decoration: none;
+    color : black;
+    margin-right: 10px;
+    font-size: 40px;
+    margin: 5px;
+    font-family: 'Ephesis', cursive;
+}
+
+

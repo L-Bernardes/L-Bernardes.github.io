@@ -1,0 +1,17 @@
+.meio1 {
+    background-color: blue;
+    
+    
+
+}
+
+.meio {
+    
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url("../Img/Meio3.png");
+    background-size: cover; 
+
+    
+
+}
